@@ -1,0 +1,2 @@
+imaplib==2.58  # Biblioteca para interação com servidores IMAP
+nltk==3.6.6    # Biblioteca para processamento de linguagem natural
